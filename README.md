@@ -1,6 +1,8 @@
 # org.json.json-plugin
 JSON library for Eclipse plugin
 
+Dependency : https://github.com/stleary/JSON-java
+
 # Deployment
 1. Import project to Eclipse workspace.
 2. Right-click on the project. Select Export > Deployable plug-ins and fragments. Click the next button.
